@@ -1,2 +1,2 @@
 # Face_Mask_Detection
-Detecting Mask on the face using  OpenCV.
+Detecting Mask on the face using Python Libraries.
